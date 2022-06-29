@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5F44AF9B-C0A7-49E9-9FEA-23AED297F975"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3666B51-3D7A-4A29-96D1-7F943D68B2B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenQuizz/Model/QuestionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "get(completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3666B51-3D7A-4A29-96D1-7F943D68B2B2 - 785a2b3eaa48bb02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenQuizz.QuestionManager.get(completionHandler: (Swift.Array&lt;OpenQuizz.Question&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "OpenQuizz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lv027851/OneDrive%20-%20Colle%CC%80ge%20Ahuntsic/420-290/ios2/Labo1/OpenQuizz%20Final/OpenQuizz/Model/QuestionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "B3666B51-3D7A-4A29-96D1-7F943D68B2B2 - a8852d56d1a43e0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OpenQuizz.QuestionManager.get(completionHandler: (Swift.Array&lt;OpenQuizz.Question&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "OpenQuizz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lv027851/OneDrive%20-%20Colle%CC%80ge%20Ahuntsic/420-290/ios2/Labo1/OpenQuizz%20Final/OpenQuizz/Model/QuestionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "305">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEF96542-DE74-4B39-8F7E-5EA7F771D5CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenQuizz/Model/QuestionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "get(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
